@@ -9,5 +9,7 @@
  - 👨‍💻 Software skills:
  
       - Beck-End
+      -![image](https://user-images.githubusercontent.com/8320781/146644823-4ac29977-8f3b-4c3c-81b0-d0967510c8ee.png)
+
       - Front-End
 
