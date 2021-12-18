@@ -12,7 +12,9 @@
       
      ![image](https://user-images.githubusercontent.com/8320781/146645202-b782a11e-8f55-4cd4-a065-6183846c1842.png)
      ![image](https://user-images.githubusercontent.com/8320781/146645293-ba51fc02-6dd9-4a63-b78f-353365b80d77.png)
-     ![image](https://user-images.githubusercontent.com/8320781/146645323-dae58b51-2961-4441-8aea-0ff6dab5072b.png)
+     ![image](https://user-images.githubusercontent.com/8320781/146645347-1ea9edab-abba-4206-901b-e419cb688b6d.png)
+     ![image](https://user-images.githubusercontent.com/8320781/146645450-47ac954a-1120-4121-b6bd-22ad021dfbc8.png)
+
 
       - Front-End
 
