@@ -10,7 +10,7 @@
  
       - Beck-End
       
-     ![image](https://user-images.githubusercontent.com/8320781/146645123-60dfd750-9569-498f-8b59-796de0dd081d.png)
+     ![image](https://user-images.githubusercontent.com/8320781/146645202-b782a11e-8f55-4cd4-a065-6183846c1842.png)
 
 
       - Front-End
