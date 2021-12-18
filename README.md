@@ -6,5 +6,5 @@
   
   - Linkedin: https://www.linkedin.com/in/j%C3%BAnior-moreira-martins-512b7375/
   
-👩‍💻 Software skills:
+ - 👨‍💻 Software skills:
 
