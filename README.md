@@ -15,6 +15,10 @@
   <img align="center" alt="Junior-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Junior-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
   <img align="center" alt="Junior-Go" height="30" width="40" src="https://www.pngfind.com/pngs/m/10-104388_sql-server-logo-png-transparent-png.png">
+ <svg width="200" height="200"
+  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <image href="https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png" height="200" width="200"/>
+</svg>
 </div>
  
   
