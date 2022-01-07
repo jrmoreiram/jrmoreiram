@@ -14,7 +14,7 @@
   <img align="center" alt="Junior-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Junior-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Junior-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
-  <img align="center" alt="Junior-Go" height="30" width="40" src="https://cl9.com.br/wp-content/uploads/2020/03/quais-as-diferencas-entre-as-versoes-do-sql-server-p10dnfny4wpoh5oxcvtewb4ezm48eemcycsg2jvhl4.jpg">
+  <img align="center" alt="Junior-Go" height="30" width="40" src="https://www.pikpng.com/pngvi/iwwxbRJ_server-clipart-sql-server-microsoft-sql-server-png">
 </div>
  
   
