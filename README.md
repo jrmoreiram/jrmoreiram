@@ -1,4 +1,4 @@
-## Hi, I'm Junior Moreira Martins, I'm a software analysis, development and architecture enthusiast.
+## Hi, I'm Junior Moreira Martins 👋
  <div align="center">
   <a href="https://github.com/jrmoreiram">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrmoreiram&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -24,6 +24,8 @@
   <img align="center" alt="Junior-Csharp" title="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Junior-Go" title="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Junior-Ts" title="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Junior-NetCore" title="DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+ 
  
   ### Database: 
   <img align="center" alt="Junior-Mysql" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
