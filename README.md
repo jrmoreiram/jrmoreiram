@@ -1,29 +1,35 @@
 - 👋 Hi, I’m Junior Moreira Martins
 - 👀 I’m interested in analisys, development and architecture from software.
-- 📫 How to reach me: 
-
-     - Mail: jumoreiram@gmail.com
+- 
+ <div align="center">
+  <a href="https://github.com/jrmoreiram">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
   
-     - Linkedin: https://www.linkedin.com/in/j%C3%BAnior-moreira-martins-512b7375/
-  
- - 👨‍💻 Development Skills:
+  ##
  
-    #### Back-End:
-      
-![image](https://user-images.githubusercontent.com/8320781/146645202-b782a11e-8f55-4cd4-a065-6183846c1842.png)
-![image](https://user-images.githubusercontent.com/8320781/146645293-ba51fc02-6dd9-4a63-b78f-353365b80d77.png)
-![image](https://user-images.githubusercontent.com/8320781/146645347-1ea9edab-abba-4206-901b-e419cb688b6d.png)
-![image](https://user-images.githubusercontent.com/8320781/146645450-47ac954a-1120-4121-b6bd-22ad021dfbc8.png)
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-   #### Front-End:
 
-![image](https://user-images.githubusercontent.com/8320781/146645618-4a4e8866-8364-43e8-9440-c969b43061d4.png)
-![image](https://user-images.githubusercontent.com/8320781/146645689-823a6ad7-a032-43c2-a637-b64f4aac0d28.png)
-![image](https://user-images.githubusercontent.com/8320781/146645753-8a6b6737-8c05-4d6d-b2f5-ae4742a6b9ef.png)
-![image](https://user-images.githubusercontent.com/8320781/146645943-36393d61-a9f7-4ed0-af61-81232c52cc63.png)
-
-   #### Data Bases:
-![image](https://user-images.githubusercontent.com/8320781/146647116-7359ea91-798a-4ad1-9c6a-005e9e01be2d.png)
-![image](https://user-images.githubusercontent.com/8320781/146646942-6e92a8c2-44a1-4cee-829f-674d1823b5be.png)
-![image](https://user-images.githubusercontent.com/8320781/146647154-927c8219-8a10-4adf-9763-34a62aed9f97.png)
-![image](https://user-images.githubusercontent.com/8320781/146647023-ba3c05d1-0126-4552-ba63-58f86774b4ff.png)
+- 📫 How to reach me:
