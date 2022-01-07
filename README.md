@@ -14,7 +14,7 @@
   <img align="center" alt="Junior-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Junior-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Junior-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
-  <img align="center" alt="Junior-Go" height="30" width="40" src="https://www.pikpng.com/pngvi/iwwxbRJ_server-clipart-sql-server-microsoft-sql-server-png">
+  <img align="center" alt="Junior-Go" height="30" width="40" src="https://www.solutionsgroup.com.br/imgs/sqlserver.png">
 </div>
  
   
