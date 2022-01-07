@@ -40,9 +40,6 @@
   <img align="center" alt="Junior-Azure" title="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Junior-Kubernetes" title="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
  <img align="center" alt="Junior-Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
- 
- 
- 
   
  ### Others:
  <img align="center" alt="Junior-VStudio" title="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
@@ -56,7 +53,8 @@
  <img align="center" alt="Junior-Bash" title="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
    
 </div>
-    
+ <br/>
+ 
   ## How to reach me 📫
  
 <div> 
