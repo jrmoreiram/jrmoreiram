@@ -1,4 +1,4 @@
-## Hi, I’m Junior Moreira Martins, I’m interested in analisys, development and architecture from software.
+## Hi, I'm Junior Moreira Martins, I'm a software analysis, development and architecture enthusiast.
  <div align="center">
   <a href="https://github.com/jrmoreiram">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
