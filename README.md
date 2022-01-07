@@ -6,6 +6,8 @@
 </div>
 <div style="display: inline_block"><br>
  
+ ## Developer Skills
+ 
  ### Front-end:
   <img align="center" alt="Junior-Js" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Junior-JQuery" title="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
