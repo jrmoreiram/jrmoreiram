@@ -14,9 +14,9 @@
   <img align="center" alt="Junior-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Junior-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Junior-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
-  <img align="center" alt="Junior-SQLServer" height="30" width="40" src="https://www.pinclipart.com/picdir/middle/531-5312237_sql-server-online-technology-sql-server-logo-png.png">
+  <img align="center" alt="Junior-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
- 
+ https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg
   
   ## How to reach me:
  
