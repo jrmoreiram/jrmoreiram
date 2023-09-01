@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
  
- ## Developer Skills
+ ## Developer Skills ⚙
  
  ### Front-end:
   <img align="center" alt="Junior-Js" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
