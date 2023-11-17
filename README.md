@@ -53,6 +53,7 @@ These are some of the technologies and tools that I work with:
   
 **Tools:**
 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-4285F4?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
