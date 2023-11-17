@@ -1,21 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Junior Moreira Martins,  I'm a Software Developerat Neogrid, and I've been working in tech since 2006. 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jrmartinsm?style=social)](https://twitter.com/jrmartinsm)
 [![Linkedin: júnior-moreira-martins](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/júnior-moreira-martins-512b7375/)](https://www.linkedin.com/in/júnior-moreira-martins-512b7375/)
 [![Gmail: jumoreiram](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jumoreiram@gmail.com")
-____
 
+#
  <div align="center">
   <a href="https://github.com/jrmoreiram">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrmoreiram&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoreiram&layout=compact&langs_count=7&theme=light"/>
 </div>
 <div style="display: inline_block"><br>
-
-____
-
+  
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
@@ -67,3 +65,5 @@ These are some of the technologies and tools that I work with:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+#
