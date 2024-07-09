@@ -3,7 +3,7 @@
 I'm Junior Moreira Martins,  I'm a Java Software Backend Developer at Neogrid, and I've been working in tech since 2006.
 
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/jr.mormars/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/jrmartinsm" target="_blank"><img src="https://img.shields.io/badge/Follow-%23333?style=for-the-badge&logo=x&logoColor=white%22%20target=%22_blank%22"></a>
   <a href = "mailto:jumoreiram@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jumoreiram/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
