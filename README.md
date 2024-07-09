@@ -55,14 +55,18 @@ These are some of the technologies and tools that I work with:
   
 **Tools:**
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-4285F4?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![JFrog](https://img.shields.io/badge/-JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white)
+<div>
+<a><img src="https://img.shields.io/badge/Kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=gitlab"></a>
+<a><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"></a>
+<a><img src="https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket"></a> 
+<a><img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira"></a> 
+<a><img src="https://img.shields.io/badge/-JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Jenkins-f44336?style=for-the-badge&logo=jenkins&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Bamboo-3d85c6?style=for-the-badge&logo=bamboo&logoColor=white"></a>
+</div>
 
 **IDEs:**
 
