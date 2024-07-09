@@ -15,21 +15,25 @@ These are some of the technologies and tools that I work with:
 
 **Backend:**
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-563D7C?style=flat-square&logo=csharp)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-2496ED?style=flat-square&logo=go&logoColor=white)
+<div>
+<a><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java"></a>
+<a><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-CSharp-563D7C?style=for-the-badge&logo=csharp"></a>
+<a><img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Go-2496ED?style=for-the-badge&logo=go&logoColor=white"></a>  
+</div>
 
 **Frontend:**
 
-![React](https://img.shields.io/badge/React-4285F4?style=flat-square&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![JQuery](https://img.shields.io/badge/-JQuery-007396?style=flat-square&logo=jquery)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<div>
+<a><img src="https://img.shields.io/badge/React-4285F4?style=for-the-badge&logo=react&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular"></a>
+<a><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"></a>
+<a><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"></a>
+<a><img src="https://img.shields.io/badge/-JQuery-007396?style=for-the-badge&logo=jquery"></a>
+<a><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
+<a><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"></a> 
+</div>
 
 **Database:**
 
