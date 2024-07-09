@@ -1,4 +1,4 @@
-## 👋 Hi there 
+## 👋 Hi there!
 
 I'm Junior Moreira Martins,  I'm a Software Backend Developer at Neogrid, and I've been working in tech since 2006. 
   
