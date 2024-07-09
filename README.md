@@ -37,16 +37,21 @@ These are some of the technologies and tools that I work with:
 
 **Database:**
 
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
- 
+<div>
+<a><img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb"></a>
+<a><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)"></a>
+</div>
+
 **Cloud:**
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FFCA28?style=flat-square&logo=amazon&logoColor=white)
+<div>
+<a><img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Amazon%20AWS-FFCA28?style=for-the-badge&logo=amazon&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Google%20Cloud-f44336?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+</div>
   
 **Tools:**
 
