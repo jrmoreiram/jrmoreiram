@@ -1,6 +1,10 @@
 ## 👋 Hi there!
 
-I'm Junior Moreira Martins,  I'm a Software Backend Developer at Neogrid, and I've been working in tech since 2006. 
+I'm Junior Moreira Martins,  I'm a Software Backend Developer at Neogrid, and I've been working in tech since 2006.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/jrmartinsm?style=social)](https://twitter.com/jrmartinsm)
+[![Linkedin: júnior-moreira-martins](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/júnior-moreira-martins-512b7375/)](https://www.linkedin.com/in/júnior-moreira-martins-512b7375/)
+[![Gmail: jumoreiram](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jumoreiram@gmail.com)
   
 ## ⚡ Technologies
 
