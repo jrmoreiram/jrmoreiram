@@ -13,17 +13,17 @@ I'm Junior Moreira Martins,  I'm a Java Software Backend Developer at Neogrid, a
 
 These are some of the technologies and tools that I work with:
 
-**Backend:**
+###  Backend:
 
 <div>
 <a><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java"></a>
 <a><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-CSharp-563D7C?style=for-the-badge&logo=csharp"></a>
+<a><img src="https://img.shields.io/badge/-.Net-563D7C?style=for-the-badge&logo=.net"></a>
 <a><img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Go-2496ED?style=for-the-badge&logo=go&logoColor=white"></a>  
 </div>
 
-**Frontend:**
+### Frontend:
 
 <div>
 <a><img src="https://img.shields.io/badge/React-4285F4?style=for-the-badge&logo=react&logoColor=white"></a>
@@ -45,7 +45,7 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)"></a>
 </div>
 
-**Cloud:**
+### Cloud:
 
 <div>
 <a><img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
@@ -53,7 +53,7 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/Google%20Cloud-f44336?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </div>
   
-**Tools:**
+### Tools:
 
 <div>
 <a><img src="https://img.shields.io/badge/Kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
@@ -68,10 +68,10 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-Bamboo-3d85c6?style=for-the-badge&logo=bamboo&logoColor=white"></a>
 </div>
 
-**IDEs:**
+### IDEs:
 
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-#
+<div>
+<a><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+</div>
