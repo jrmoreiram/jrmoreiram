@@ -21,7 +21,7 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-.Net-563D7C?style=for-the-badge&logo=.net"></a>
 <a><img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Go-2496ED?style=for-the-badge&logo=go&logoColor=white"></a>  
-<a><img src="https://img.shields.io/badge/-Apache%20Maven-D2691E?style=for-the-badge&logo=apachemaven&logoColor=white"></a>    
+<a><img src="https://img.shields.io/badge/-Apache%20Maven-E34F26?style=for-the-badge&logo=apachemaven&logoColor=white"></a>    
 </div>
 
 ### Frontend:
