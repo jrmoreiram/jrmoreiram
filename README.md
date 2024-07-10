@@ -13,12 +13,6 @@ I'm Junior Moreira Martins,  I'm a Java Software Backend Developer at Neogrid, a
 
 These are some of the technologies and tools that I work with:
 
-### Operating systems:
-
-<div>
-<a><img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white"></a>
-</div>  
-
 ###  Backend:
 
 <div>
@@ -27,6 +21,7 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-.Net-563D7C?style=for-the-badge&logo=.net"></a>
 <a><img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Go-2496ED?style=for-the-badge&logo=go&logoColor=white"></a>  
+<a><img src="https://img.shields.io/badge/-Apache%20Maven-D2691E?style=for-the-badge&logo=apachemaven&logoColor=white"></a>    
 </div>
 
 ### Frontend:
@@ -51,6 +46,7 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)"></a>
+<a><img src="https://img.shields.io/badge/-SQLite-373754?style=for-the-badge&logo=sqlite&logoColor=white"></a>  
 </div>
 
 ### Cloud:
@@ -84,7 +80,7 @@ These are some of the technologies and tools that I work with:
 <div>
 <a><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=cloudbees&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-NetBeans-1572B6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"></a>  
 </div>
 
