@@ -33,6 +33,7 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-JQuery-007396?style=for-the-badge&logo=jquery"></a>
 <a><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
 <a><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"></a> 
+<a><img src="https://img.shields.io/badge/-Babel-FFCA28?style=for-the-badge&logo=babel&logoColor=white"></a>   
 </div>
 
 ### Databases:
@@ -66,7 +67,9 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Jenkins-f44336?style=for-the-badge&logo=jenkins&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Bamboo-3d85c6?style=for-the-badge&logo=bamboo&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Apache%20Tomcat-007396?style=for-the-badge&logo=apachetomcat&logoColor=white"></a>  
 </div>
+
 
 ### IDEs:
 
@@ -74,4 +77,7 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-NetBeans-1572B6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"></a>  
 </div>
+
+
