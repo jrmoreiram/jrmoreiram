@@ -41,7 +41,7 @@ These are some of the technologies and tools that I work with:
 ### Databases:
 
 <div>
-<a><img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=rxdb&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=steamdb&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb"></a>
 <a><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
