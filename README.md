@@ -13,7 +13,8 @@ I'm Junior Moreira Martins,  I'm a Java Software Backend Developer at Neogrid, a
 
 These are some of the technologies and tools that I work with:
 
-### Oparation Systems:
+### Operating systems:
+
 <div>
 <a><img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white"></a>
 </div>  
@@ -21,7 +22,7 @@ These are some of the technologies and tools that I work with:
 ###  Backend:
 
 <div>
-<a><img src="https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logo=oracle"></a>
+<a><img src="https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logo=openjdk"></a>
 <a><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-.Net-563D7C?style=for-the-badge&logo=.net"></a>
 <a><img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
@@ -74,9 +75,9 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-Jenkins-f44336?style=for-the-badge&logo=jenkins&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Bamboo-3d85c6?style=for-the-badge&logo=bamboo&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Apache%20Tomcat-007396?style=for-the-badge&logo=apachetomcat&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-Elastic%20Search-1ad5d0?style=for-the-badge&logo=elasticsearch&logoColor=white"></a>    
+<a><img src="https://img.shields.io/badge/-Elastic%20Search-1ad5d0?style=for-the-badge&logo=elasticsearch&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-RabbitMQ-E34F26?style=for-the-badge&logo=rabbitmq&logoColor=white"></a>      
 </div>
-
 
 ### IDEs:
 
