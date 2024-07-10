@@ -52,11 +52,12 @@ These are some of the technologies and tools that I work with:
 ### Cloud:
 
 <div>
-<a><img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=accusoft&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Amazon%20AWS-FFCA28?style=for-the-badge&logo=amazon&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Google%20Cloud-f44336?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Rancher-007396?style=for-the-badge&logo=rancher&logoColor=white"></a>  
 </div>
-  
+ 
 ### Tools:
 
 <div>
