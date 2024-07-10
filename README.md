@@ -16,7 +16,7 @@ These are some of the technologies and tools that I work with:
 ###  Backend:
 
 <div>
-<a><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java"></a>
+<a><img src="https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logo=java"></a>
 <a><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-.Net-563D7C?style=for-the-badge&logo=.net"></a>
 <a><img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
