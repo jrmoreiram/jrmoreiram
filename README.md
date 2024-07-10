@@ -35,7 +35,7 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"></a> 
 </div>
 
-**Database:**
+### Databases:
 
 <div>
 <a><img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
