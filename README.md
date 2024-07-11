@@ -21,9 +21,10 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-.Net-563D7C?style=for-the-badge&logo=.net"></a>
 <a><img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Go-2496ED?style=for-the-badge&logo=go&logoColor=white"></a>  
-<a><img src="https://img.shields.io/badge/-Apache%20Maven-E34F26?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-Apache%20Tomcat-007396?style=for-the-badge&logo=apachetomcat&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-Weblogic%20Server-4682B4?style=for-the-badge&logo=oracle&logoColor=white"></a>  
+<a><img src="https://img.shields.io/badge/-Apache%20Maven-8d3877?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Apache%20Tomcat-d2a41f?style=for-the-badge&logo=apachetomcat&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Weblogic%20Server-ff000e?style=for-the-badge&logo=oracle&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-WildFly-233446?style=for-the-badge&logo=redhat&logoColor=white"></a>  
 </div>
 
 ### Frontend:
