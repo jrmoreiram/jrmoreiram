@@ -22,7 +22,7 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Go-2496ED?style=for-the-badge&logo=go&logoColor=white"></a>  
 <a><img src="https://img.shields.io/badge/-Apache%20Maven-8d3877?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-Apache%20Tomcat-d2a41f?style=for-the-badge&logo=apachetomcat&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Apache%20Tomcat-d1a41a?style=for-the-badge&logo=apachetomcat&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Weblogic%20Server-ff000e?style=for-the-badge&logo=oracle&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-WildFly-233446?style=for-the-badge&logo=redhat&logoColor=white"></a>  
 </div>
@@ -37,7 +37,7 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-JQuery-007396?style=for-the-badge&logo=jquery"></a>
 <a><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
 <a><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"></a> 
-<a><img src="https://img.shields.io/badge/-Babel-FFCA28?style=for-the-badge&logo=babel&logoColor=white"></a>   
+<a><img src="https://img.shields.io/badge/-Babel-f7d100?style=for-the-badge&logo=babel&logoColor=white"></a>   
 <a><img src="https://img.shields.io/badge/-Gulp-d51a20?style=for-the-badge&logo=gulp&logoColor=white"></a>     
 </div>
 
