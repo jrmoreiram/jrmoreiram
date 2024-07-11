@@ -73,7 +73,7 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket"></a> 
 <a><img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira"></a> 
 <a><img src="https://img.shields.io/badge/-JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-Jenkins-f44336?style=for-the-badge&logo=jenkins&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Jenkins-d23833?style=for-the-badge&logo=jenkins&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Bamboo-3d85c6?style=for-the-badge&logo=bamboo&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Elastic%20Search-4682B4?style=for-the-badge&logo=elasticsearch&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-RabbitMQ-E34F26?style=for-the-badge&logo=rabbitmq&logoColor=white"></a>
