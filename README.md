@@ -21,7 +21,9 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-.Net-563D7C?style=for-the-badge&logo=.net"></a>
 <a><img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Go-2496ED?style=for-the-badge&logo=go&logoColor=white"></a>  
-<a><img src="https://img.shields.io/badge/-Apache%20Maven-E34F26?style=for-the-badge&logo=apachemaven&logoColor=white"></a>    
+<a><img src="https://img.shields.io/badge/-Apache%20Maven-E34F26?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Apache%20Tomcat-007396?style=for-the-badge&logo=apachetomcat&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/-Weblogic%20Server-4682B4?style=for-the-badge&logo=oracle&logoColor=white"></a>  
 </div>
 
 ### Frontend:
@@ -46,7 +48,7 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)"></a>
-<a><img src="https://img.shields.io/badge/-SQLite-373754?style=for-the-badge&logo=sqlite&logoColor=white"></a>  
+<a><img src="https://img.shields.io/badge/-SQLite-373754?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 </div>
 
 ### Cloud:
@@ -72,9 +74,8 @@ These are some of the technologies and tools that I work with:
 <a><img src="https://img.shields.io/badge/-JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Jenkins-f44336?style=for-the-badge&logo=jenkins&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Bamboo-3d85c6?style=for-the-badge&logo=bamboo&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-Apache%20Tomcat-007396?style=for-the-badge&logo=apachetomcat&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/-Elastic%20Search-4682B4?style=for-the-badge&logo=elasticsearch&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/-RabbitMQ-E34F26?style=for-the-badge&logo=rabbitmq&logoColor=white"></a>      
+<a><img src="https://img.shields.io/badge/-RabbitMQ-E34F26?style=for-the-badge&logo=rabbitmq&logoColor=white"></a>
 </div>
 
 ### IDEs:
